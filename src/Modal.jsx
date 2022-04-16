@@ -9,7 +9,7 @@ function Modal({ isOpen, close, addMenu }) {
     >
       <form
         className="modal"
-        id="addItemForm"
+        id="addMenuForm"
         onSubmit={(e) => {
           e.preventDefault();
 
