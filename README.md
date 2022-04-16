@@ -10,4 +10,4 @@
 - CSS
 - Netlify
 
-![preview](react-practice-lisohh.gif)
+![preview](preview.gif)
